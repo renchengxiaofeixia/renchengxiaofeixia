@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @renchengxiaofeixia
 - 👀 I’m interested in c# .net core ios
-- 🌱 I’m currently ios
+- 🌱 I’m currently learning ios
 - 💞️ nothing
 - 📫 nothing
 
