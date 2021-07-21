@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @renchengxiaofeixia
+- 👋 renchengxiaofeixia@gmail.com
 - 👀 I’m interested in c# .net core ios
 - 🌱 I’m currently learning ios
 - 💞️ nothing
